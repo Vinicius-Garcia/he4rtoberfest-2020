@@ -1,5 +1,5 @@
 <?php
-$helo = "Hello";
-$b = "He4rt";
-
-echo $helo . $b;
+$hello = "Hello";
+$heart = "He4rt";
+;
+echo "$hello $heart";
